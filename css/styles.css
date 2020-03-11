@@ -63,3 +63,7 @@ a{
   width: 200px;
   height: 200px;
 }
+
+li {
+  display: inline-block;
+}
